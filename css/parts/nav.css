@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+*{
+    padding:0;
+    margin:0;
+    border: 0;
+    /* border: solid 1px rgb(0, 0, 0); */
+}
+.navbar{
+    background-color: #820AD1;
+}
+.navbar-brand{
+    font-family: 'DM Serif Display', sans-serif;
+    font-size: 28px;
+}
+.navbar-brand, .nav-link{
+    font-weight: 500;
+}
+.hover:hover{
+    background-color:rgba(0, 0, 0, 0.2);
+    margin:7px 0;
+}
+.hover{
+        margin:7px 0;
+}
+.navlink{
+    padding: 15px 0;
+    margin-top:8px;
+    border-bottom: #00000000 solid 4px;
+}
+/* ver se vai ter esse navlink hover */
+.navlink:hover{
+    border-bottom: #bc58ff solid 4px;
+    border-radius:2px;
+}
+.ativolink{
+    border-bottom: #D090FA solid 4px;
+    border-radius:2px;
+}
+.navitem{
+    padding: 0 12px;
+}
