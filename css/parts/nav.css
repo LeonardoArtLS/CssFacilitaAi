@@ -1,66 +1,83 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
-*{
-    padding:0;
-    margin:0;
+
+* {
+    padding: 0;
+    margin: 0;
     border: 0;
     /* border: solid 1px rgb(0, 0, 0); */
 }
-.navbar{
+
+.navbar {
+    --bs-navbar-color: #7006b8;
     background-color: #820AD1;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-family: 'DM Serif Display', sans-serif;
     font-size: 28px;
 }
-.navbar-brand, .nav-link{
+
+.navbar-brand,
+.nav-link {
     font-weight: 500;
 }
-.hover:hover{
-    background-color:rgba(0, 0, 0, 0.2);
-    margin:7px 0;
+
+.hover:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: 7px 0;
 }
-.hover{
-        margin:7px 0;
+
+.hover {
+    margin: 7px 0;
 }
-.navlink{
+
+.navlink {
     padding: 15px 0;
-    margin-top:8px;
+    margin-top: 8px;
     border-bottom: #00000000 solid 4px;
 }
+
 /* ver se vai ter esse navlink hover */
-.navlink:hover{
+.navlink:hover {
     border-bottom: #bc58ff solid 4px;
-    border-radius:2px;
+    border-radius: 2px;
 }
-.ativolink{
+
+.ativolink {
     border-bottom: #D090FA solid 4px;
-    border-radius:2px;
+    border-radius: 2px;
 }
-.navitem{
+
+.navitem {
     padding: 0 12px;
 }
-@media (min-width: 1500px) and (max-width:1649px){
-    .navitem{
-        padding:0 20px 0 0;
+
+@media (min-width: 1500px) and (max-width:1649px) {
+    .navitem {
+        padding: 0 20px 0 0;
     }
 }
-@media (min-width: 1650px) and (max-width:1899px){
-    .navitem{
-        padding:0 40px 0 0;
+
+@media (min-width: 1650px) and (max-width:1899px) {
+    .navitem {
+        padding: 0 40px 0 0;
     }
 }
-@media (min-width: 1900px) and (max-width:2169px){
-    .navitem{
-        padding:0 60px 0 0;
+
+@media (min-width: 1900px) and (max-width:2169px) {
+    .navitem {
+        padding: 0 60px 0 0;
     }
 }
-@media (min-width: 2170px) and (max-width:2399px){
-    .navitem{
-        padding:0 80px 0 0;
+
+@media (min-width: 2170px) and (max-width:2399px) {
+    .navitem {
+        padding: 0 80px 0 0;
     }
 }
-@media (min-width: 2400px){
-    .navitem{
-        padding:0 110px 0 0;
+
+@media (min-width: 2400px) {
+    .navitem {
+        padding: 0 100px 0 0;
     }
 }

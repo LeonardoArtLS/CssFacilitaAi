@@ -3,12 +3,12 @@
 
         <div class="col-md-3">
             <a class="navbar-brand text-light ml-0 p-0" href="#">
-                <img src="img/facilitaai.png" alt="Logo" width="60" height="60" class="align-text-center">
+                <img src="img/Handshake9.png" alt="Logo" width="60" height="60" class="align-text-center">
                 FacilitaAí
             </a>
         </div>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
