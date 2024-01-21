@@ -39,3 +39,23 @@
 .navitem{
     padding: 0 12px;
 }
+@media (min-width: 1700px) and (max-width:1899px){
+    .navitem{
+        padding:0 40px 0 0;
+    }
+}
+@media (min-width: 1900px) and (max-width:2169px){
+    .navitem{
+        padding:0 60px 0 0;
+    }
+}
+@media (min-width: 2170px) and (max-width:2399px){
+    .navitem{
+        padding:0 80px 0 0;
+    }
+}
+@media (min-width: 2400px){
+    .navitem{
+        padding:0 110px 0 0;
+    }
+}

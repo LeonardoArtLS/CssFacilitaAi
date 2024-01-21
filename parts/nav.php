@@ -1,4 +1,3 @@
-
 <nav class="navbar m-0 p-0 navbar-expand-md">
         <div class="container-fluid m-0 p-0">
 
@@ -31,7 +30,7 @@
                             <a class="nav-link text-center text-light" href="#">Faça login</a>
                         </li>
                         <li class="nav-item d-md-inline-flex justify-content-center align-items-center">
-                            <a class="nav-link text-center bg-white
+                            <a class="nav-link text-center bg-light
                             text-dark rounded-5" href="#">Cadastre-se</a>
                         </li>
                     </div>
