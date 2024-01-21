@@ -39,7 +39,12 @@
 .navitem{
     padding: 0 12px;
 }
-@media (min-width: 1700px) and (max-width:1899px){
+@media (min-width: 1500px) and (max-width:1649px){
+    .navitem{
+        padding:0 20px 0 0;
+    }
+}
+@media (min-width: 1650px) and (max-width:1899px){
     .navitem{
         padding:0 40px 0 0;
     }
