@@ -3,7 +3,7 @@
 
         <div class="col-md-3">
             <a class="navbar-brand text-light ml-0 p-0" href="#">
-                <img src="img/Handshake9.png" alt="Logo" width="60" height="60" class="align-text-center">
+                <img src="img/Handshake1.png" alt="Logo" width="60" height="60" class="align-text-center">
                 FacilitaAí
             </a>
         </div>
