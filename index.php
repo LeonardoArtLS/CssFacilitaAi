@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/parts/nav.css">
     <link rel="stylesheet" href="css/parts/footer.css">
+    <link rel="stylesheet" href="css/windows/style.css">
     <title>FacilítaAí</title>
 </head>
 
@@ -14,8 +15,7 @@
 
     <?php require_once "parts/nav.php"; ?>
 
-
-
+    <?php require_once "windows/querocontratar.php"; ?>
 
 
     <?php require_once "parts/footer.php" ?>
