@@ -1,5 +1,6 @@
 .footer{
-    background-color: #820AD1;
+    /* background-color: #820AD1; */
+    background: linear-gradient(to left, #a319ff, #820AD1);
     bottom: 0;
     font-weight: 500;
 }

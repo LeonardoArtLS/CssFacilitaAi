@@ -1,14 +1,14 @@
 <nav class="navbar m-0 p-0 navbar-expand-md">
         <div class="container-fluid m-0 p-0">
 
-        <div class="col-md-3">
+        <div class="col-md-3 mx-auto">
             <a class="navbar-brand text-light ml-0 p-0" href="#">
                 <img src="img/Handshake1.png" alt="Logo" width="60" height="60" class="align-text-center">
                 FacilitaAí
             </a>
         </div>
 
-            <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
