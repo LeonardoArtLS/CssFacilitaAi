@@ -1,9 +1,9 @@
-<nav class="navbar m-0 p-0 navbar-expand-md">
+<nav class="navbar fundoGradiente m-0 p-0 navbar-expand-md">
         <div class="container-fluid m-0 p-0">
 
         <div class="col-md-3 mx-auto">
             <a class="navbar-brand text-light ml-0 p-0" href="#">
-                <img src="img/Handshake1.png" alt="Logo" width="60" height="60" class="align-text-center">
+                <img src="img/Handshake1.png" alt="Logo" width="60" height="60" class="align-text-center fontsize-1 text-bottom">
                 FacilitaAí
             </a>
         </div>
@@ -18,20 +18,20 @@
 
                     <div class="p-0 m-0 col-md-8 col-lg-7 d-md-flex justify-content-end">
                         <li class="nav-item d-md-inline-flex justify-content-center align-items-center navitem">
-                            <a class="nav-link text-center text-light pt-md-2 navlink ativolink" href="#">Quero contratar</a>
+                            <a class="nav-link text-center text-light pt-md-2 navlink ativolink fontsize-1" href="#">Quero contratar</a>
                         </li>
                         <li class="nav-item d-md-inline-flex justify-content-center align-items-center navitem">
-                            <a class="nav-link text-center text-light pt-md-2 navlink" href="#">Quero trabalhar</a>
+                            <a class="nav-link text-center text-light pt-md-2 navlink fontsize-1" href="#">Quero trabalhar</a>
                         </li>
                     </div>
 
                     <div class="col-md-6 col-lg-7 d-md-flex justify-content-end">
                         <li class="nav-item d-md-inline-flex justify-content-center align-items-center hover rounded-5 px-2">
-                            <a class="nav-link text-center text-light" href="#">Faça login</a>
+                            <a class="nav-link text-center text-light fontsize-1" href="#">Faça login</a>
                         </li>
                         <li class="nav-item d-md-inline-flex justify-content-center align-items-center">
                             <a class="nav-link text-center bg-light
-                            text-dark rounded-5" href="#">Cadastre-se</a>
+                            text-dark rounded-5 fontsize-1" href="#">Cadastre-se</a>
                         </li>
                     </div>
                 </ul>

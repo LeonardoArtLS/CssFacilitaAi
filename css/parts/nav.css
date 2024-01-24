@@ -7,11 +7,15 @@
     /* border: solid 1px rgb(0, 0, 0); */
 }
 
+span.navbar-toggler-icon{
+    fill:red;
+    color:red;
+
+}
+
 .navbar {
     /* --bs-navbar-color: #8313ce; */
     --bs-navbar-color: transparent;
-    /* background-color: #820AD1; */
-    background: linear-gradient(to left, #a319ff, #820AD1);
 }
 
 .navbar-brand {
