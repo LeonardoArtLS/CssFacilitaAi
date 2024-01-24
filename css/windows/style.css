@@ -40,10 +40,6 @@
 .espaco {
     padding-top: 100px;
 }
-.selecionado{
-    background: linear-gradient(to left, #a319ff, #820AD1);
-    -webkit-text-fill-color: #F8F9FA;
-}
 .fundoGradiente{
         /* background-color: #820AD1; */
         /* background: linear-gradient(to left, #a319ff, #820AD1); */
