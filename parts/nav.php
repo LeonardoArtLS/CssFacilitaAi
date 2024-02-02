@@ -8,8 +8,9 @@
             </a>
         </div>
 
-            <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+            <button class="navbar-toggler me-2 rotate-center" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class=""><box-icon name='dots-horizontal-rounded' color='#f9f9f9'></box-icon></span>
+            <!-- bi-grid bi-grid-fill bi-house bi-list bi-list-task bi-list-ul bi-three-dots bi-three-dots-vertical bi-justify -->
             </button>
 
             <div class="collapse navbar-collapse" id="navbarNav">

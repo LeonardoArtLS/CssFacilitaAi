@@ -5,22 +5,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="css/parts/nav.css">
     <link rel="stylesheet" href="css/parts/footer.css">
     <link rel="stylesheet" href="css/windows/style.css">
-    <title>FacilítaAí</title>
+    <link rel="stylesheet" href="css/windows/perfilprof.css">
+    <title>FacilitaAí</title>
 </head>
 
 <body>
 
     <?php require_once "parts/nav.php"; ?>
 
-    <?php require_once "windows/querocontratar.php"; ?>
+    <?php require_once "windows/perfilprof.php"; ?>
 
 
     <?php require_once "parts/footer.php" ?>
 
-    <script src="js/bootstrap.bundle.min.js"></script>
 </body>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 
 </html>

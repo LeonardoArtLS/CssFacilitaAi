@@ -17,7 +17,7 @@
     </div>
     <div class="row">
         <div class="col-12 espaco">
-            <h1 class="textoGradiente textoblur text-center fw-bold fontsize-6">Serviços Solicitados</h1>
+            <h1 class="textosombra text-center fw-bold fontsize-6 textoGradiente col-12 mx-auto">Serviços Solicitados</h1>
         </div>
     </div>
 
@@ -26,20 +26,20 @@
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <div class="row pt-5 pb-5 text-center mx-auto">
-                        <div class="card col-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
+                    <div class="row pt-5 pb-5 text-center mx-sm-5 p-xl-5">
+                        <div class="card col-5 col-sm-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/smiling-carpenter-measuring-wooden-planks_329181-3745.jpg?w=740&t=st=1706037365~exp=1706037965~hmac=f639710bd89286286d95fa41b2456eddb18ead63c0ca0757e473254207329a26" class="card-img-top img-fluid " alt="Imagem">
                             <div class="card-body">
                                 <h5 class="card-title textoGradiente fontsize-1">Montagem de móveis</h5>
                             </div>
                         </div>
-                        <div class="card col-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
+                        <div class="card d-none d-sm-inline col-sm-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/man-electrical-technician-working-switchboard-with-fuses_169016-24062.jpg?w=740&t=st=1706037587~exp=1706038187~hmac=4f1345f90702be558cea88657e46f551860314677f56a3194c932ffcfed6d9a0" class="card-img-top img-fluid " alt="Imagem" width="300px" height="300px">
                             <div class="card-body">
                                 <h5 class="card-title textoGradiente fontsize-1">Serviço de Eletricista</h5>
                             </div>
                         </div>
-                        <div class="card col-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
+                        <div class="card col-5 col-sm-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/young-craftsman-building-house_1303-27969.jpg?w=740&t=st=1706037708~exp=1706038308~hmac=34c2e1e1b095be4944e5fec464630d304392520d91c21cc5272123bebfe18530" class="card-img-top img-fluid " alt="Imagem" width="300px" height="300px">
                             <div class="card-body">
                                 <h5 class="card-title textoGradiente fontsize-1">Serviço de Pedreiro</h5>
@@ -49,21 +49,21 @@
                 </div>
 
                 <div class="carousel-item">
-                    <div class="row pt-5 pb-5 text-center mx-auto">
-                        <div class="card col-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
+                    <div class="row pt-5 pb-5 text-center mx-sm-5 p-xl-5">
+                        <div class="card col-5 col-sm-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/smiling-carpenter-measuring-wooden-planks_329181-3745.jpg?w=740&t=st=1706037365~exp=1706037965~hmac=f639710bd89286286d95fa41b2456eddb18ead63c0ca0757e473254207329a26" class="card-img-top img-fluid " alt="Imagem">
                             <div class="card-body">
                                 <h5 class="card-title textoGradiente fontsize-1">Montagem de móveis</h5>
                             </div>
                         </div>
-                        <div class="card col-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
+                        <div class="card d-none d-sm-inline col-sm-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/man-electrical-technician-working-switchboard-with-fuses_169016-24062.jpg?w=740&t=st=1706037587~exp=1706038187~hmac=4f1345f90702be558cea88657e46f551860314677f56a3194c932ffcfed6d9a0" class="card-img-top img-fluid " alt="Imagem" width="300px" height="300px">
                             <div class="card-body">
                                 <h5 class="card-title textoGradiente fontsize-1">Serviço de Eletricista</h5>
                             </div>
                         </div>
-                        <div class="card col-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
-                            <img src="https://img.freepik.com/free-photo/young-craftsman-building-house_1303-27969.jpg?w=740&t=st=1706037708~exp=1706038308~hmac=34c2e1e1b095be4944e5fec464630d304392520d91c21cc5272123bebfe18530" class="card-img-top img-fluid" alt="Imagem" width="300px" height="300px">
+                        <div class="card col-5 col-sm-3 mx-auto p-0 m-0 b-0 sombra maxwidth3">
+                            <img src="https://img.freepik.com/free-photo/young-craftsman-building-house_1303-27969.jpg?w=740&t=st=1706037708~exp=1706038308~hmac=34c2e1e1b095be4944e5fec464630d304392520d91c21cc5272123bebfe18530" class="card-img-top img-fluid " alt="Imagem" width="300px" height="300px">
                             <div class="card-body">
                                 <h5 class="card-title textoGradiente fontsize-1">Serviço de Pedreiro</h5>
                             </div>
@@ -73,11 +73,11 @@
 
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="" aria-hidden="true"><i class="bi bi-caret-left-fill textoGradiente fontsize-5"></i></span>
                 <span class="visually-hidden">Previous</span>
             </button>
             <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="" aria-hidden="true"><i class="bi bi-caret-right-fill textoGradiente fontsize-5"></i></span>
                 <span class="visually-hidden">Next</span>
             </button>
         </div>
@@ -94,7 +94,7 @@
 
         <div class="col-12">
             <div class="col-12 fs-5 text-center mx-auto">
-                <img src="img/Handshake1.png" alt="Logo" class="col-8 col-sm-4 d-inline text-center maxwidth2">
+                <img src="img/Handshake7.png" alt="Logo" class="col-8 col-sm-4 d-inline text-center maxwidth2">
                 <h1 class="fonte col-12 col-sm-6 d-inline fontsize-7 align-middle">FacilitaAí</h1>
             </div>
             <div class="col-12 text-center mt-3">
