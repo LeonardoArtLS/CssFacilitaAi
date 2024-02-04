@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <link rel="stylesheet" href="css/parts/nav.css">
     <link rel="stylesheet" href="css/parts/footer.css">
     <link rel="stylesheet" href="css/windows/style.css">
@@ -22,8 +23,8 @@
 
     <?php require_once "parts/footer.php" ?>
 
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 </body>
-<script src="js/bootstrap.bundle.min.js"></script>
-<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 
 </html>

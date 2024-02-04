@@ -93,9 +93,8 @@
     <div class="row pt-5 pb-5 text-light fundoGradiente">
 
         <div class="col-12">
-            <div class="col-12 fs-5 text-center mx-auto">
-                <img src="img/Handshake7.png" alt="Logo" class="col-8 col-sm-4 d-inline text-center maxwidth2">
-                <h1 class="fonte col-12 col-sm-6 d-inline fontsize-7 align-middle">FacilitaAí</h1>
+            <div class="col-12 text-center mx-auto py-3">
+                <img src="img/facilitaaisite.png" alt="Logo" class="col-8 col-sm-4 d-inline text-center maxwidth2">
             </div>
             <div class="col-12 text-center mt-3">
                 <h1 class="fontsize-3 col-9 m-auto">É a principal plataforma brasileira para encontrar serviços especializados. Conectamos profissionais de diversas regiões do país a pessoas que necessitam de serviços, assegurando atendimento de qualidade, praticidade e rapidez para atender a uma ampla gama de necessidades.</h1>
