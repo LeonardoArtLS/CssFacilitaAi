@@ -85,7 +85,7 @@
         <div class="col-12 mt-4">
             <div class="swiper sliderProfissionais col-10 rounded">
                 <div class="swiper-wrapper text-center col-10">
-                    <div class="swiper-slide">
+                    <div class="swiper-slide pe-1">
                         <div class="card mx-auto sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/smiling-carpenter-measuring-wooden-planks_329181-3745.jpg?w=740&t=st=1706037365~exp=1706037965~hmac=f639710bd89286286d95fa41b2456eddb18ead63c0ca0757e473254207329a26" class="card-img-top img-fluid " alt="Imagem">
                             <div class="card-body">
@@ -93,7 +93,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    <div class="swiper-slide pe-1">
                         <div class="card mx-auto sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/smiling-carpenter-measuring-wooden-planks_329181-3745.jpg?w=740&t=st=1706037365~exp=1706037965~hmac=f639710bd89286286d95fa41b2456eddb18ead63c0ca0757e473254207329a26" class="card-img-top img-fluid " alt="Imagem">
                             <div class="card-body">
@@ -101,7 +101,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    <div class="swiper-slide pe-1">
                         <div class="card mx-auto sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/young-craftsman-building-house_1303-27969.jpg?w=740&t=st=1706037708~exp=1706038308~hmac=34c2e1e1b095be4944e5fec464630d304392520d91c21cc5272123bebfe18530" class="card-img-top img-fluid " alt="Imagem" width="300px" height="300px">
                             <div class="card-body">
@@ -109,7 +109,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    <div class="swiper-slide pe-1">
                         <div class="card mx-auto sombra maxwidth3">
                             <img src="https://img.freepik.com/free-photo/man-electrical-technician-working-switchboard-with-fuses_169016-24062.jpg?w=740&t=st=1706037587~exp=1706038187~hmac=4f1345f90702be558cea88657e46f551860314677f56a3194c932ffcfed6d9a0" class="card-img-top img-fluid " alt="Imagem" width="300px" height="300px">
                             <div class="card-body">
@@ -129,6 +129,16 @@
             import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs'
 
             const sliderProfissionais = new Swiper('.sliderProfissionais', {
+                effect: 'coverflow',
+                coverflowEffect: {
+                    rotate: 5,
+                    slideShadows: false,
+                },
+                grabCursor: true,
+                keyboard: {
+                    enabled: true,
+                    onlyInViewport: false,
+                },
                 autoplay: {
                     delay: 4000,
                 },
@@ -139,7 +149,7 @@
                     clickable: true,
                 },
                 breakpoints: {
-                    640: {
+                    500: {
                         slidesPerView: 2,
                         spaceBetween: 20,
                     },

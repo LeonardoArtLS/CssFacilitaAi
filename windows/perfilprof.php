@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="row pt-5 justify-content-start">
-        <div class="col-12 col-sm-5 col-md-4 col-lg-3 mx-auto">
+        <div class="col-12 col-sm-8 col-md-4 mx-auto">
             <div class="text-center fundoGradiente pt-4 col-sm-12 col-10 rounded-4 mx-auto text-light">
                 <img src="img/kodax.png" class="img-fluid fotoProfissional" alt="Logo">
                 <h5 class="pt-2 fontsize-2 fw-normal padding-sm">Gabriel</h5>
@@ -22,17 +22,17 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-8 col-md-7 col-lg-6 mx-auto">
+        <div class="col-12 col-sm-10 col-md-7 col-lg-6 mx-auto">
             <div class="col-11 fundoGradiente p-3 rounded-4 mx-auto mt-3">
                 <h5 class="fontsize-1 text-light fw-light">Taió - SC</h5>
 
-                <h5 class="fontsize-1 text-light fw-normal">Toco bateria há 9 anos e sou professor a 2 anos. Durante esse tempo, compartilhei minha sabedoria com vários alunos de várias idades, sempre oferecendo o melhor de mim nas aulas, criando ótimos músicos.</h5>
+                <h5 class="fontsize-1 text-light fw-normal">Toco bateria há nove anos, além de dois anos de experiência sendo professor. Durante esse tempo, compartilhei minha sabedoria com vários alunos de várias idades, sempre oferecendo o melhor de mim nas aulas, criando ótimos músicos.</h5>
             </div>
             <div class="col-12 mt-4">
                 <div class="swiper sliderPortfolio col-12 col-xl-12 rounded">
                     <div class="swiper-wrapper text-center">
                         <div class="swiper-slide">
-                            <img src="img/kodaxtrans.png" class="rounded max-height img-fluid mx-auto" alt="...">
+                            <img src="img/Untitled.png" class="rounded max-height img-fluid mx-auto" alt="...">
                         </div>
                         <div class="swiper-slide">
                             <img src="img/kodax.png" class="rounded max-height img-fluid mx-auto" alt="...">
@@ -41,7 +41,7 @@
                             <img src="img/kodaxtrans.png" class="rounded max-height img-fluid mx-auto" alt="...">
                         </div>
                         <div class="swiper-slide">
-                            <img src="img/kodaxtrans.png" class="rounded max-height img-fluid mx-auto" alt="...">
+                            <img src="img/profissional.png" class="rounded max-height img-fluid mx-auto" alt="...">
                         </div>
                     </div>
 
@@ -184,6 +184,17 @@
         import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs'
 
         const sliderAvaliacoes = new Swiper('.sliderAvaliacoes', {
+            effect: 'coverflow',
+            coverflowEffect: {
+                rotate: 0,
+                slideShadows: false,
+            },
+            grabCursor: true,
+            keyboard: {
+                enabled: true,
+                onlyInViewport: false,
+            },
+            nested: true,
             autoplay: {
                 delay: 5000,
             },
@@ -228,14 +239,14 @@
             <div class="col-12 col-md-4">
                 <textarea class="form-control text-light text-center text-md-start bg-transparent fontsize-1 placeholder-white d-md-inline-flex justify-content-center align-items-center" id="avaliar" placeholder="Deixar uma avaliação:" rows="1"></textarea>
             </div>
-            <div class="p-2 p-md-0 col-12 col-md-8 d-inline-flex justify-content-center justify-content-md-end align-items-center mx-auto">
+            <div class="pt-2 p-md-0 col-12 col-md-8 d-inline-flex justify-content-center justify-content-md-end align-items-center mx-auto align-top">
                 <select class="star-rating">
-                        <option value=""></option>
-                        <option value="5"></option>
-                        <option value="4"></option>
-                        <option value="3"></option>
-                        <option value="2"></option>
-                        <option value="1"></option>
+                    <option value=""></option>
+                    <option value="5"></option>
+                    <option value="4"></option>
+                    <option value="3"></option>
+                    <option value="2"></option>
+                    <option value="1"></option>
                 </select>
                 <script src="bibliotecas/star-rate/dist/star-rating.js"></script>
                 <script>
@@ -249,7 +260,7 @@
         </div>
         <div class="col-8 col-md-2 px-xl-4 d-md-inline-flex justify-content-center align-items-center my-auto mx-auto">
 
-            <button type="button" class="col-12 col-md-10 btn bordaGradiente textoGradiente mt-2"><box-icon name='send' type='solid'  color='#820AD1' size='md' class="align-top my-auto mx-auto"></box-icon></button>
+            <button type="button" class="col-12 col-md-10 btn bordaGradiente textoGradiente mt-2"><box-icon name='send' type='solid' color='#820AD1' size='md' class="align-top my-auto mx-auto"></box-icon></button>
 
         </div>
     </div>
