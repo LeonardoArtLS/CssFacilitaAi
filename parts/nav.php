@@ -2,10 +2,10 @@
     <div class="container-fluid m-0 p-0">
 
             <a class="navbar-brand d-md-inline-flex justify-content-center align-items-center" href="#">
-                <img src="img/facilitaaisite.png" alt="Logo" height="30" class="mx-3 my-2">
+                <img src="img/facilitaaisite.png" alt="Logo" height="30" class="mx-3 mb-2 mb-md-0">
             </a>
 
-        <button class="navbar-toggler me-2 rotate-center" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler me-2 rotate-center border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class=""><box-icon name='dots-horizontal-rounded' color='#f9f9f9'></box-icon></span>
             <!-- bi-grid bi-grid-fill bi-house bi-list bi-list-task bi-list-ul bi-three-dots bi-three-dots-vertical bi-justify -->
         </button>
@@ -20,8 +20,7 @@
                         <a class="nav-link text-center text-light fontsize-1" href="#">Faça login</a>
                     </li>
                     <li class="nav-item d-md-inline-flex justify-content-center align-items-center">
-                        <a class="nav-link text-center bg-light
-                            text-dark rounded-5 fontsize-1" href="#">Cadastre-se</a>
+                        <a class="nav-link text-center rounded-5 fontsize-1 btn-cadastro" href="#">Cadastre-se</a>
                     </li>
                 </div>
             </ul>

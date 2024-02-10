@@ -14,6 +14,15 @@
     color: #333333;
 }
 
+.btn-servicos{
+    color: #f9f9f9;
+    border:solid 1px transparent;
+}
+.btn-servicos:hover{
+    color: #f9f9f9;
+    border:solid 1px hsla(0, 0%, 0%, 1);
+}
+
 .fundo {
     overflow: hidden;
 }
