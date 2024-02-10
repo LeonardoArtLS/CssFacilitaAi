@@ -19,7 +19,7 @@
 
     <?php require_once "parts/nav.php"; ?>
 
-    <?php require_once "windows/querocontratar.php"; ?>
+    <?php require_once "windows/perfilprof.php"; ?>
 
 
     <?php require_once "parts/footer.php" ?>
