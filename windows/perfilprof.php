@@ -1,16 +1,9 @@
 <div class="container-fluid">
     <div class="row pt-5 justify-content-start">
-<<<<<<< HEAD
-        <div class="col-12 col-sm-8 col-md-4 mx-auto">
-            <div class="text-center fundoGradiente pt-4 col-sm-12 col-10 rounded-4 mx-auto text-light">
-                <img src="img/kodax.png" class="img-fluid fotoProfissional" alt="Logo">
-                <h3 class="pt-2 fontsize-2 fw-normal padding-sm">Gabriel</h3>
-=======
         <div class="col-12 col-sm-8 col-md-4 col-xl-4 mx-auto my-auto">
-            <div class="text-center fundoGradiente pt-4 col-sm-12 col-10 rounded-4 mx-auto text-light mx-xl-5">
-                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid fotoProfissional border border-5 border-light" alt="Logo">
-                <h5 class="pt-2 fontsize-2 fw-bold padding-sm mx-3">Leonardo Arthur Luchtenberg Silva</h5>
->>>>>>> 3dabbe921be391d2f70ef7155d71829cb6e496db
+            <div class="text-center fundoGradiente pt-4 col-sm-12 col-10 rounded-4 mx-auto text-light">
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid fotoProfissional border border-3 border-light" alt="Logo">
+                <h3 class="pt-2 fontsize-2 fw-bold padding-sm mx-3">Gabriel</h3>
                 <hr class="border border-light border-2 my-2 opacity-100 col-8 mx-auto">
                 <h3 class="fontsize-2 fw-normal pb-3 padding-sm">Professor de Bateria</h3>
 
@@ -30,13 +23,9 @@
             </div>
         </div>
         <div class="col-12 col-sm-10 col-md-7 col-lg-6 mx-auto">
-<<<<<<< HEAD
+
             <div class="col-11 fundoGradiente p-3 rounded-4 mx-auto mt-3">
                 <h4 class="fontsize-1 text-light fw-light">Taió - SC</h4>
-=======
-            <div class="col-12 fundoGradiente p-3 rounded-4 mx-auto mt-3">
-                <h5 class="fontsize-1 text-light fw-light">Taió - SC</h5>
->>>>>>> 3dabbe921be391d2f70ef7155d71829cb6e496db
 
                 <h4 class="fontsize-1 text-light fw-normal">Toco bateria há nove anos, além de dois anos de experiência sendo professor. Durante esse tempo, compartilhei minha sabedoria com vários alunos de várias idades, sempre oferecendo o melhor de mim nas aulas, criando ótimos músicos.</h4>
             </div>
