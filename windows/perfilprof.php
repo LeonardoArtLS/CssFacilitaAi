@@ -2,10 +2,10 @@
     <div class="row pt-5 justify-content-start">
         <div class="col-12 col-sm-8 col-md-4 col-xl-4 mx-auto my-auto">
             <div class="text-center fundoGradiente pt-4 col-sm-12 col-10 rounded-4 mx-auto text-light">
-                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid fotoProfissional border border-3 border-light" alt="Logo">
-                <h3 class="pt-2 fontsize-2 fw-bold padding-sm mx-3">Gabriel</h3>
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid fotoProfissional border border-4 border-light" alt="Logo">
+                <h3 class="pt-2 fontsize-2 fw-bold padding-sm mx-3">Leonardo Arthur</h3>
                 <hr class="border border-light border-2 my-2 opacity-100 col-8 mx-auto">
-                <h3 class="fontsize-2 fw-normal pb-3 padding-sm">Professor de Bateria</h3>
+                <h3 class="fontsize-2 fw-normal pb-3 padding-sm">Programador PHP</h3>
 
                 <div>
                     <box-icon name='star' type='solid' color='#f9f9f9' size='md'></box-icon>

@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/parts/footer.css">
     <link rel="stylesheet" href="css/windows/style.css">
     <link rel="stylesheet" href="css/windows/perfilprof.css">
+    <link rel="stylesheet" href="css/windows/categorias.css">
     <title>FacilitaAí</title>
 </head>
 
@@ -19,7 +20,7 @@
 
     <?php require_once "parts/nav.php"; ?>
 
-    <?php require_once "windows/perfilprof.php"; ?>
+    <?php require_once "windows/categorias.php"; ?>
 
 
     <?php require_once "parts/footer.php" ?>

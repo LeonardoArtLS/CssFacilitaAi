@@ -1,0 +1,25 @@
+.placeholder-purple::placeholder{
+    color:#820AD1;
+    opacity: 1;
+}
+input.bordaTransparente {
+    border: none !important;
+    box-shadow: none !important;
+}
+.categoriasIcones:hover{
+    border: solid 2px #820AD1 !important;
+}
+.categoriasIcones:hover .categoriasIcon{
+    background: #fff;
+    color:#820AD1 !important;
+}
+.categoriasIcon{
+    background:var(--bg-gradient);
+}
+.categoriasText{
+    background:var(--bg-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
