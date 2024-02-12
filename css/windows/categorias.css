@@ -1,25 +1,34 @@
-.placeholder-purple::placeholder{
-    color:#820AD1;
+.placeholder-purple::placeholder {
+    color: #820AD1;
     opacity: 1;
 }
+
 input.bordaTransparente {
     border: none !important;
     box-shadow: none !important;
 }
-.categoriasIcones:hover{
+
+.categoriasIcones:hover {
     border: solid 2px #820AD1 !important;
 }
-.categoriasIcones:hover .categoriasIcon{
+
+.categoriasIcones:hover .categoriasIcon {
     background: #fff;
-    color:#820AD1 !important;
+    color: #820AD1 !important;
 }
-.categoriasIcon{
-    background:var(--bg-gradient);
+
+.categoriasIcon {
+    background: var(--bg-gradient);
+    transition: all 300ms !important;
 }
-.categoriasText{
-    background:var(--bg-gradient);
+
+.categoriasText {
+    background: var(--bg-gradient);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
+.imagemCategorias{
+    background: linear-gradient(to right, #9021D9, #C474F7);
+    border-radius: 76% 24% 35% 65% / 45% 26% 74% 55%;
+}

@@ -117,4 +117,277 @@
             <h4 class="fontsize-2">A <strong class="textoGradiente">liderança</strong> de nossa comunidade de talentos na região relete-se na busca pelas principais <strong class="textoGradiente">categorias</strong> de serviços</h4>
         </div>
     </div>
+
+    <div class="row mt-5 fundoGradiente">
+
+        <div class="col-12 my-5">
+            <h1 class="fontsize-6 text-light text-center fw-bold">Prestadores de serviços mais solicitados</h1>
+        </div>
+
+        <div class="col-12 col-lx-9 mx-auto px-md-5 d-flex flex-wrap justify-content-center align-item-center">
+
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
+                <div class="card-body d-flex justify-content-center align-items-center categoriasText">
+                    <div class="card-text fontsize-1 fw-medium text-center">
+                        <h3 class="fontsize-1">Leonardo Arthur</h3>
+                        <hr class="border bordaGradiente border-1 my-2 opacity-100 mx-auto">
+                        <h4 class="fontsize-1 fw-bold">Programador PHP</h4>
+                        <div class="col-12">
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
+                <div class="card-body d-flex justify-content-center align-items-center categoriasText">
+                    <div class="card-text fontsize-1 fw-medium text-center">
+                        <h3 class="fontsize-1">Leonardo Arthur</h3>
+                        <hr class="border bordaGradiente border-1 my-2 opacity-100 mx-auto">
+                        <h4 class="fontsize-1 fw-bold">Programador PHP</h4>
+                        <div class="col-12">
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
+                <div class="card-body d-flex justify-content-center align-items-center categoriasText">
+                    <div class="card-text fontsize-1 fw-medium text-center">
+                        <h3 class="fontsize-1">Leonardo Arthur</h3>
+                        <hr class="border bordaGradiente border-1 my-2 opacity-100 mx-auto">
+                        <h4 class="fontsize-1 fw-bold">Programador PHP</h4>
+                        <div class="col-12">
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
+                <div class="card-body d-flex justify-content-center align-items-center categoriasText">
+                    <div class="card-text fontsize-1 fw-medium text-center">
+                        <h3 class="fontsize-1">Leonardo Arthur</h3>
+                        <hr class="border bordaGradiente border-1 my-2 opacity-100 mx-auto">
+                        <h4 class="fontsize-1 fw-bold">Programador PHP</h4>
+                        <div class="col-12">
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
+                <div class="card-body d-flex justify-content-center align-items-center categoriasText">
+                    <div class="card-text fontsize-1 fw-medium text-center">
+                        <h3 class="fontsize-1">Leonardo Arthur</h3>
+                        <hr class="border bordaGradiente border-1 my-2 opacity-100 mx-auto">
+                        <h4 class="fontsize-1 fw-bold">Programador PHP</h4>
+                        <div class="col-12">
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+                <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
+                <div class="card-body d-flex justify-content-center align-items-center categoriasText">
+                    <div class="card-text fontsize-1 fw-medium text-center">
+                        <h3 class="fontsize-1">Leonardo Arthur</h3>
+                        <hr class="border bordaGradiente border-1 my-2 opacity-100 mx-auto">
+                        <h4 class="fontsize-1 fw-bold">Programador PHP</h4>
+                        <div class="col-12">
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                            <box-icon name='star' type='solid' color='#820AD1' size='sm'></box-icon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        
+        <div class="col-12 mx-auto my-5">
+            <h3 class="fontsize-5 text-light text-center">"Conectando Profissionais, Transformandos Serviços."</h3>
+        </div>
+    </div>
+
+    <div class="row bg-light align-items-center">
+
+        <div class="lh-3 texto mx-auto text-center text-md-start col-9 col-sm-6 col-md-6 pt-5">
+
+            <h1 class="fontsize-6 fw-semibold pb-3 my-auto text-center mb-md-4">
+                Facilitando a <strong class="textoGradiente fw-semibold fontsize-6">união</strong> entre <strong class="textoGradiente fw-semibold fontsize-6">necessidades</strong> e <strong class="textoGradiente fw-semibold fontsize-6">especialidades</strong>.
+            </h1>
+        </div>
+
+        <div class="fundo col-8 col-sm-4 col-xl-3 m-auto maxwidth1 my-5">
+            <img src="img/profissional2.png" alt="Imagem Profissional" class="img-fluid imagemCategorias px-1 pt-2">
+        </div>
+
+    </div>
+
+    <div class="row fundoGradiente">
+    <div class="col-8 mx-auto my-4">
+            <h3 class="fontsize-5 text-light text-center">"A recomendação perfeita para descomplicar a sua vida!"</h3>
+        </div>
+    </div>
+
+    <div class="row my-5 pb-5 px-5">
+
+        <div class="swiper sliderCategorias pt-5 col-12 col-xl-10">
+            <div class="swiper-wrapper text-center">
+                <div class="swiper-slide">
+                    <div class="card border-2 bordaGradiente">
+                        <div class="card-body">
+                            <h4 class="fw-normal fontsize-1 d-flex  justify-content-center align-items-center height-avaliacao overflow-y-auto text-center ">Fui muito bem atendida, o profissional foi muito educado e fez um trabalho de qualidade. Valeu a pena, orçamento grátis e não é careiro.</h4>
+                            <h3 class="fontsize-1">Serviço de Pedreiro</h3>
+                            <hr class="border-2 my-2 opacity-100 col-12 mx-auto bordaGradiente">
+                            <h3 class="fs-6 fh-1 fw-normal">
+                                Ana Paula Contratou um Profissional
+                            </h3>
+                            <h3 class="fs-6 fw-normal m-0">Taió, SC</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="card border-2 bordaGradiente">
+                        <div class="card-body">
+                            <h4 class="fw-normal fontsize-1 d-flex  justify-content-center align-items-center height-avaliacao overflow-y-auto text-center ">O profissional é dedicado com seu serviço. Tudo o que é pedido é feito da maneira como foi pedido. Aprovado!</h4>
+                            <h3 class="fontsize-1">Serviço de Pedreiro</h3>
+                            <hr class="border-2 my-2 opacity-100 col-12 mx-auto bordaGradiente">
+                            <h3 class="fs-6 fh-1 fw-normal">
+                                Paulo Oliveira Contratou um Profissional
+                            </h3>
+                            <h3 class="fs-6 fw-normal m-0">Taió, SC</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="card border-2 bordaGradiente">
+                        <div class="card-body">
+                            <h4 class="fw-normal fontsize-1 d-flex  justify-content-center align-items-center height-avaliacao overflow-y-auto text-center">Um excelente profissional, pontual e acima de tudo confiavel. Foi bastante educado e atencioso com o trabalho, recomendo.</h4>
+                            <h3 class="fontsize-1">Serviço de Pedreiro</h3>
+                            <hr class="border-2 my-2 opacity-100 col-12 mx-auto bordaGradiente">
+                            <h3 class="fs-6 fh-1 fw-normal">
+                                Renata Mendes Contratou uma Diarista em Blumenau
+                            </h3>
+                            <h3 class="fs-6 fw-normal m-0">Taió, SC</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="card border-2 bordaGradiente">
+                        <div class="card-body">
+                            <h4 class="fw-normal fontsize-1 d-flex  justify-content-center align-items-center height-avaliacao overflow-y-auto text-center ">Exelente!</h4>
+                            <h3 class="fontsize-1">Serviço de Pedreiro</h3>
+                            <hr class="border-2 my-2 opacity-100 col-12 mx-auto bordaGradiente">
+                            <h3 class="fs-6 fh-1 fw-normal">
+                                Leonardo Arthur Contratou uma Assistência em
+                            </h3>
+                            <h3 class="fs-6 fw-normal m-0">Brusque, SC</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="card border-2 bordaGradiente">
+                        <div class="card-body">
+                            <h4 class="fw-normal fontsize-1 d-flex  justify-content-center align-items-center height-avaliacao overflow-y-auto text-center ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad sunt soluta eveniet recusandae voluptatum harum voluptas, quidem sequi molestias, nostrum maiores alias nesciunt incidunt autem perspiciatis officiis cum ullam saepe?
+                                Iure fugit reiciendis inventore incidunt dolorum tenetur magni saepe non eius? Quis aperiam laborum repellat esse consequuntur dolorum libero, quasi officia quas, possimus quisquam velit neque consectetur quia beatae assumenda.
+                                Praesentium labore autem voluptatum dignissimos provident! Quos facere nisi adipisci ipsam. Necessitatibus perspiciatis ipsam, ratione ea odio error magni cupiditate atque facere assumenda excepturi soluta fugit asperiores voluptatum molestiae eligendi?
+                                Mollitia doloremque ut earum sit eligendi suscipit modi amet deleniti iusto. Explicabo, itaque! Fugiat deleniti asperiores repudiandae quaerat eligendi, libero laboriosam natus optio labore nemo, vitae, consequuntur eius porro deserunt.
+                                Hic consectetur esse et voluptates, eos sapiente provident sequi autem, quae animi aperiam maiores veniam similique, saepe tenetur eum laboriosam est error! Quia deleniti ipsa magni, accusantium magnam voluptates a!</h4>
+                            <h3 class="fontsize-1">Serviço de Pedreiro</h3>
+                            <hr class="border-2 my-2 opacity-100 col-12 mx-auto bordaGradiente">
+                            <h3 class="fs-6 fh-1 fw-normal">
+                                Leonardo Arthur Contratou um Pedreiro em
+                            </h3>
+                            <h3 class="fs-6 fw-normal m-0">Taió, SC</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+
+            <div class="swiper-button-prev swiper-button-Avaliacoes textoGradiente my-auto"></div>
+            <div class="swiper-button-next swiper-button-Avaliacoes textoGradiente my-auto"></div>
+        </div>
+
+    </div>
+    <script type="module">
+        import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs'
+
+        const sliderCategorias = new Swiper('.sliderCategorias', {
+            effect: 'coverflow',
+            coverflowEffect: {
+                rotate: 0,
+                slideShadows: false,
+            },
+            grabCursor: true,
+            keyboard: {
+                enabled: true,
+                onlyInViewport: false,
+            },
+            nested: true,
+            autoplay: {
+                delay: 5000,
+            },
+            slidesPerView: 1,
+            spaceBetween: 10,
+            pagination: {
+                el: ".swiper-paginatio",
+                clickable: true,
+            },
+            breakpoints: {
+                640: {
+                    slidesPerView: 2,
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 40,
+                },
+                1024: {
+                    slidesPerView: 3,
+                    spaceBetween: 50,
+                },
+                1800: {
+                    slidesPerView: 4,
+                    spaceBetween: 60,
+                },
+            },
+            loop: true,
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+
+
+
+        });
+    </script>
 </div>

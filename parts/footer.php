@@ -8,7 +8,7 @@
             </div>
 
             <div class="mb-1 mx-end text-md-end">
-                <img src="img/kodax.png" alt="Kodax" width="60" height="60" class="rounded-5 m-1">
+                <img src="img/LogoKODAXpurpleSombraTeste1.png" alt="Kodax" width="60" height="60" class="rounded-5 m-1 bg-light p-2">
             </div>
 
 
