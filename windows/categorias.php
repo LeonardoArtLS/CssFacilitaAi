@@ -2,7 +2,7 @@
     <div class="row my-5">
         <div class="col-10 rounded-3 border border-2 bordaGradiente mx-auto d-flex justify-content-start py-md-2">
             <box-icon class="m-auto mx-2" name='search' size="md" color='#820ad1'></box-icon>
-            <input class="form-control form-control-lg placeholder-purple border-0 bordaTransparente" type="text" placeholder="Digite aqui a sua pesquisa" aria-label=".form-control-lg example">
+            <input class="form-control form-control-lg placeholder-purple border-0 bordaTransparente" type="text" placeholder="Pesquisar..." aria-label=".form-control-lg example">
             <button class="btn bordaGradiente fundoGradiente btn-servicos fontsize-1 ms-3 my-1 my-md-0">Buscar</button>
         </div>
     </div>
@@ -126,7 +126,7 @@
 
         <div class="col-12 col-lx-9 mx-auto px-md-5 d-flex flex-wrap justify-content-center align-item-center">
 
-            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded ">
                 <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
                 <div class="card-body d-flex justify-content-center align-items-center categoriasText">
                     <div class="card-text fontsize-1 fw-medium text-center">
@@ -143,7 +143,7 @@
                     </div>
                 </div>
             </div>
-            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded ">
                 <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
                 <div class="card-body d-flex justify-content-center align-items-center categoriasText">
                     <div class="card-text fontsize-1 fw-medium text-center">
@@ -160,7 +160,7 @@
                     </div>
                 </div>
             </div>
-            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded ">
                 <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
                 <div class="card-body d-flex justify-content-center align-items-center categoriasText">
                     <div class="card-text fontsize-1 fw-medium text-center">
@@ -177,7 +177,7 @@
                     </div>
                 </div>
             </div>
-            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded ">
                 <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
                 <div class="card-body d-flex justify-content-center align-items-center categoriasText">
                     <div class="card-text fontsize-1 fw-medium text-center">
@@ -194,7 +194,7 @@
                     </div>
                 </div>
             </div>
-            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded ">
                 <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
                 <div class="card-body d-flex justify-content-center align-items-center categoriasText">
                     <div class="card-text fontsize-1 fw-medium text-center">
@@ -211,7 +211,7 @@
                     </div>
                 </div>
             </div>
-            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded">
+            <div href="#" class="card col-5 col-md-3 m-2 border-0 shadow text-decoration-none rounded ">
                 <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid" alt="Profissional">
                 <div class="card-body d-flex justify-content-center align-items-center categoriasText">
                     <div class="card-text fontsize-1 fw-medium text-center">
@@ -240,8 +240,8 @@
 
         <div class="lh-3 texto mx-auto text-center text-md-start col-9 col-sm-6 col-md-6 pt-5">
 
-            <h1 class="fontsize-6 fw-semibold pb-3 my-auto text-center mb-md-4">
-                Facilitando a <strong class="textoGradiente fw-semibold fontsize-6">união</strong> entre <strong class="textoGradiente fw-semibold fontsize-6">necessidades</strong> e <strong class="textoGradiente fw-semibold fontsize-6">especialidades</strong>.
+            <h1 class="fontsize-7 fw-semibold pb-3 my-auto text-center text-md-start mb-md-4">
+                Facilitando a <strong class="textoGradiente fw-semibold fontsize-7">união</strong> entre <strong class="textoGradiente fw-semibold fontsize-7">necessidades</strong> e <strong class="textoGradiente fw-semibold fontsize-7">especialidades</strong>.
             </h1>
         </div>
 
