@@ -10,6 +10,7 @@ input.bordaTransparente {
 
 .categoriasIcones:hover {
     border: solid 2px #820AD1 !important;
+    scale: 1.05;
 }
 
 .categoriasIcones:hover .categoriasIcon {

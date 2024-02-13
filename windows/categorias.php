@@ -236,11 +236,11 @@
         </div>
     </div>
 
-    <div class="row bg-light align-items-center">
+    <div class="row bg-light">
 
-        <div class="lh-3 texto mx-auto text-center text-md-start col-9 col-sm-6 col-md-6 pt-5">
+        <div class="lh-3 mx-auto text-center text-md-start col-9 col-sm-6 col-md-6 pt-5 pt-sm-0 my-auto">
 
-            <h1 class="fontsize-7 fw-semibold pb-3 my-auto text-center text-md-start mb-md-4">
+            <h1 class="fontsize-7 fw-semibold text-center text-md-start mb-md-4 my-auto">
                 Facilitando a <strong class="textoGradiente fw-semibold fontsize-7">união</strong> entre <strong class="textoGradiente fw-semibold fontsize-7">necessidades</strong> e <strong class="textoGradiente fw-semibold fontsize-7">especialidades</strong>.
             </h1>
         </div>
