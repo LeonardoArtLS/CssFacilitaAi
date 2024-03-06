@@ -1,7 +1,7 @@
 <div class="container-fluid">
     <div class="row pt-5 justify-content-start">
         <div class="col-12 col-sm-8 col-md-4 col-xl-4 mx-auto my-auto">
-            <div class="text-center fundoGradiente pt-4 col-sm-12 col-10 rounded-4 mx-auto text-light">
+            <div class="text-center fundoGradiente py-5 col-sm-12 col-10 rounded-4 mx-auto text-light">
                 <img src="https://avatars.githubusercontent.com/u/144188076?v=4" class="img-fluid fotoProfissional border border-4 border-light" alt="Logo">
                 <h3 class="pt-2 fontsize-2 fw-bold padding-sm mx-3">Leonardo Arthur</h3>
                 <hr class="border border-light border-2 my-2 opacity-100 col-8 mx-auto">
@@ -15,11 +15,6 @@
                     <box-icon name='star' type='solid' color='#f9f9f9' size='md'></box-icon>
                 </div>
 
-                <div class="p-3">
-                    <box-icon name='whatsapp' type='logo' color='#f9f9f9' size='md'></box-icon>
-                    <box-icon name='instagram-alt' type='logo' color='#f9f9f9' size='md'></box-icon>
-                    <box-icon name='facebook-square' type='logo' color='#f9f9f9' size='md'></box-icon>
-                </div>
             </div>
         </div>
         <div class="col-12 col-sm-10 col-md-7 col-lg-6 mx-auto">
@@ -75,7 +70,7 @@
     </div>
 
     <div class="row my-5 pb-5 px-5">
-        <div class="col-11 fundoGradiente p-3 rounded-4 mx-auto">
+        <div class="col-12 fundoGradiente py-3 rounded-4 mx-auto">
             <h4 class="fontsize-2 text-light fw-bold text-center m-2">Deseja contratar meus serviços?</h4>
 
             <h4 class="fontsize-2 text-light fw-light text-center m-2">Entre em contato através do whatsapp abaixo</h4>

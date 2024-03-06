@@ -20,7 +20,7 @@
 
     <?php require_once "parts/nav.php"; ?>
 
-    <?php require_once "windows/categorias.php"; ?>
+    <?php require_once "windows/perfilprof.php"; ?>
 
 
     <?php require_once "parts/footer.php" ?>
